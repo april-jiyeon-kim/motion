@@ -1,0 +1,23 @@
+.header {
+  background: black;
+  display: flex;
+  flex-direction: column;
+  color: darkred;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  padding: 1rem;
+}
+
+.menuBtn {
+  outline: none;
+  border: none;
+  background: darkred;
+  padding: 1rem;
+  margin: 0.2rem;
+  color: white;
+  width: 9rem;
+  height: 2.5rem;
+  line-height: 0.5rem;
+  border-radius: 2px;
+}
