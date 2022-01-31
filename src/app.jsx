@@ -1,6 +1,7 @@
 import styles from "./app.module.css";
 import Footer from "./components/footer/footer";
 import Header from "./components/header/header";
+import Item from "./components/item/item";
 import ItemList from "./components/item_list/item_list";
 
 function App() {
